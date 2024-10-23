@@ -1,5 +1,6 @@
 Hi, I’m @ame0110
 currently learning programming in Python 1 ! 
+nice to meet you 
 
 
 
