@@ -1,5 +1,5 @@
 Hi, I’m @ame0110
-creating README #1 
+currently learning programming in Python 1 ! 
 
 
 
